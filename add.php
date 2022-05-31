@@ -1,5 +1,4 @@
 <?php
 echo "welcome to the git";
-$a=300;
-
+$a=30;
 ?>
